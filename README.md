@@ -5,4 +5,6 @@ An web application Hosted on Azure using azure static web app service. This uses
 
 "A drop in a Ocean"
 
+https://yellow-mushroom-020823400.1.azurestaticapps.net/
+
 ![image](https://user-images.githubusercontent.com/83111706/169558601-d7492cf2-362d-4744-aae4-9fc7e7911fc6.png)
